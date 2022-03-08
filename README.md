@@ -1,2 +1,2 @@
 # Access this page via `github.com/tttor/z`
-* [ai tut 03](https://gist.github.com/tttor/826be15b99bb4b33a50787d7eb7b5fda#file-gridworld-py)
+* [ML Prac Week 2, 8 Mar 2022: Extra notes](https://gist.github.com/tttor/e64d1a9f878605e5676b1610058a573b)
